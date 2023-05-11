@@ -1,0 +1,6 @@
+{
+    "data":{
+       "string_00" : { "key":"hello_string", "value":"Imaginary foreign language"  },
+       "string_01" : { "key" : "bye_string", "value" : "Goodbye on imaginary language"}
+    }
+ }

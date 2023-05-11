@@ -1,0 +1,6 @@
+{
+   "data":{
+      "string_00" : { "key":"hello_string", "value":"Hello World!"  },
+      "string_01" : { "key" : "bye_string", "value" : "Bye!"}
+   }
+}
