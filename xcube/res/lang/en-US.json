@@ -1,6 +1,7 @@
 {
    "data":{
-      "string_00" : { "key":"hello_string", "value":"Hello World!"  },
-      "string_01" : { "key" : "bye_string", "value" : "Bye!"}
+      "string_00" : { "key":"hello_string", "value":"Hello, Player!"  },
+      "string_01" : { "key" : "task_string", "value" : "Collect all yellow keys and return to me to complete the game."},
+      "string_02" : { "key" : "reward_string", "value" : "Congratulation! You Win!"}
    }
 }

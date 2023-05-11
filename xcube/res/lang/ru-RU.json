@@ -1,6 +1,7 @@
 {
    "data":{
-      "string_00" : { "key":"hello_string", "value":"Привет мир!"  },
-      "string_01" : { "key" : "bye_string", "value" : "Пока!"}
+      "string_00" : { "key" : "hello_string", "value":"Привет, Игрок!"  },
+      "string_01" : { "key" : "task_string", "value" : "Собери все желтые ключи и вернись ко мне чтобы завершить игрую"},
+      "string_02" : { "key" : "reward_string", "value" : "Поздравляю! Ты победил!"}
    }
 }
